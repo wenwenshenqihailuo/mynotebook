@@ -1,0 +1,9 @@
+{
+  "id": "notebooksync",
+  "name": "NotebookSync",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "把企业微信客服收到的文章和链接自动同步成 Obsidian Markdown 笔记",
+  "author": "你的名字",
+  "isDesktopOnly": true
+}
